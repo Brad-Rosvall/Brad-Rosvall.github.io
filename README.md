@@ -1,5 +1,4 @@
-* Brad-Rosvall.github.io
-
+# Brad-Rosvall.github.io
 ---
 title: Bradley Rosvall
 ---
